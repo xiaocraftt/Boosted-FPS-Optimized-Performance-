@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§aBoosted FPS - §7(FPS Boost Pack)",
+    "description": "§eUltra-lightweight and optimized texture pack designed to maximize FPS in MCPE/Bedrock. \n§bPerfect for low-end devices with clean visuals and minimal lag.",
+    "uuid": "1f57c778-9193-4143-9e26-4c3a5f7c5d95",
+    "version": [1, 0, 2],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "description": "§aBoosted FPS - FPS Boost Textures",
+      "type": "resources",
+      "uuid": "43e76693-aa73-4a87-8f00-e995b61618c6",
+      "version": [1, 0, 2]
+    }
+  ],
+  "metadata": {
+    "authors": ["XiaoCraft"],
+    "url": "https://mcpedl/@xiaocraft"
+  }
+}
